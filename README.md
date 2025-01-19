@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple application I made in python which can automatically download likes and favorites from exported tiktok JSON data.
+This is a simple application I made in python which can automatically download likes and favorites from exported tiktok JSON data. 
 
 TikTokDL will try and download as fast as possible and should really only be limited by your internet, as of now there can be an error rate of 20-50% but this may be improved in the future. Multiple passes may result in more TikToks fully processed and downloaded.
 
